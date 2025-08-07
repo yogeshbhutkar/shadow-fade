@@ -4,7 +4,7 @@
  * Slug: shadow-fade/footer
  * Inserter: no
  *
- * @package shadow-fade
+ * @package ShadowFade
  */
 
 ?>

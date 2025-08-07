@@ -4,7 +4,7 @@
  * Slug: shadow-fade/archive
  * Inserter: no
  *
- * @package shadow-fade
+ * @package ShadowFade
  */
 
 ?>

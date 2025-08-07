@@ -18,3 +18,7 @@ docker-compose.override.yml
 
 # Ignore IDE specific files
 .vscode/
+
+# Ignore workflow files.
+theme-zip.sh
+*.zip

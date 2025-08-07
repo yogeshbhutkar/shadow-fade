@@ -4,7 +4,7 @@
  * Slug: shadow-fade/single-post
  * Inserter: no
  *
- * @package shadow-fade
+ * @package ShadowFade
  */
 
 ?>

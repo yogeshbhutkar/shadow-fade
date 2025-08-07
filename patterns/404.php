@@ -4,7 +4,7 @@
  * Slug: shadow-fade/404
  * Inserter: no
  *
- * @package shadow-fade
+ * @package ShadowFade
  */
 
 ?>

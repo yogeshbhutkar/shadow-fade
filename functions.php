@@ -2,9 +2,8 @@
 /**
  * Functions and definitions for the Shadow Fade theme.
  *
- * @package shadow_fade
- * @author Yogesh Bhutkar
- * @since Shadow Fade 1.0
+ * @package ShadowFade
+ * @since ShadowFade 1.0
  */
 
 if ( ! function_exists( 'shadow_fade_post_format_setup' ) ) :
