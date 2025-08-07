@@ -12,7 +12,6 @@
 		"server:up:prod": "docker compose -f docker-compose.yml up -d"
 	},
 	"devDependencies": {
-		"@wordpress/create-block": "^4.68.0",
 		"@wordpress/prettier-config": "^4.25.0",
 		"@wordpress/scripts": "^30.18.0",
 		"@wordpress/stylelint-config": "^23.17.0",
