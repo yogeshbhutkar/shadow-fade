@@ -2,14 +2,11 @@
 	"name": "shadow-fade",
 	"version": "1.0.0",
 	"description": "A WordPress Theme for your blogs.",
-	"license": "GPL-2.0-only",
+	"license": "GPL-2.0-or-later",
 	"author": "Yogesh Bhutkar",
 	"scripts": {
-		"build": "wp-scripts build",
-		"start": "wp-scripts start",
 		"format": "wp-scripts format",
 		"lint:css": "wp-scripts lint-style",
-		"lint:js": "wp-scripts lint-js",
 		"server:down": "docker compose down",
 		"server:up:dev": "docker compose up -d",
 		"server:up:prod": "docker compose -f docker-compose.yml up -d"
