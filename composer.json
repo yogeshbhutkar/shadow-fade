@@ -1,0 +1,22 @@
+{
+    "name": "yogeshbhutkar/shadow-fade",
+    "autoload": {
+        "psr-4": {
+            "Yogeshbhutkar\\WpBlogsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yogeshbhutkar",
+            "email": "yogeshbhutkar3@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "automattic/vipwpcs": "^3.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
