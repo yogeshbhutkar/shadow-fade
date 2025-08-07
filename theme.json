@@ -191,6 +191,12 @@
 					"radius": "100%"
 				}
 			},
+			"core/calendar": {
+				"color": {
+					"text": "var(--wp--preset--color--base)"
+				},
+				"css": "& caption, td { color: var(--wp--preset--color--contrast); }"
+			},
 			"core/code": {
 				"border": {
 					"radius": "0.5rem"
